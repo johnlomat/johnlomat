@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=johnlomat)
 
 <h1 align="center"><b>Hi , I'm John </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
@@ -100,6 +101,23 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
 </div>
 
 <br>
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlomat&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlomat&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnlomat&show_icons=true" />
+	
+</picture>
+
+</div>
 	
 </ul>
 </div>

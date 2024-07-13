@@ -53,6 +53,7 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
 - **Frameworks**:
 
   ![NEXTJS](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=next.js&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769ad.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   

@@ -62,6 +62,7 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
+  ![cPanel](https://img.shields.io/badge/cPanel-ff6c2c.svg?style=for-the-badge&logo=cpanel&logoColor=white)
     
 
 
@@ -73,6 +74,12 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+
+- **Content Management System**:
+
+
+  ![WordPress](https://img.shields.io/badge/WordPress-21759b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
    
 
 </p>

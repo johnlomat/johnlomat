@@ -8,7 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;WordPress+Developer;Frontend+Developer;Constant+Learning;"></a>
 </p>
 
-
 ## About Me
 
 I am a passionate frontend developer with a strong foundation in modern web technologies, specializing in creating static websites optimized for SEO. My expertise lies in crafting dynamic, responsive, and SEO-friendly web applications using a variety of tools and frameworks.
@@ -27,8 +26,6 @@ I specialize in developing static websites that not only look great but also ran
 
 Whether it's crafting the visual elements with HTML and CSS, enhancing user interactions with JavaScript, or leveraging React and Next.js to build SEO-friendly static websites, I bring a comprehensive skill set to every project. My goal is to create web applications that are visually appealing, highly functional, and deliver exceptional SEO performance.
 
-
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -45,18 +42,27 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
- 
     
+
 - **Frameworks**:
 
+  ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=React&logoColor=61DAFB)
   ![NEXTJS](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=next.js&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jQuery-0769ad.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
+
+- **Database**:
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+
+
+- **API/Query Language**:
+
+  ![REST API](https://img.shields.io/badge/REST%20API-0082C9?style=for-the-badge&logo=api&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
 - **Cloud Hosting**:
@@ -66,27 +72,36 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
   ![cPanel](https://img.shields.io/badge/cPanel-ff6c2c.svg?style=for-the-badge&logo=cpanel&logoColor=white)
     
 
+- **Preprocessors**:
+
+  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 - **Softwares and Tools**:
-
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+  ![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+
+- **Runtime Environment**:
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 - **Content Management System**:
-
-
+  
   ![WordPress](https://img.shields.io/badge/WordPress-21759b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-222222.svg?style=for-the-badge&logo=Payload-CMS&logoColor=white)
    
 
 </p>
 
 <br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>

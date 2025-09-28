@@ -37,26 +37,27 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
 
 - **Languages**:
     
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5%20-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-663399.svg?style=for-the-badge&logo=css&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
     
 
 - **Frameworks**:
 
-  ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=React&logoColor=61DAFB)
-  ![NEXTJS](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=next.js&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jQuery-0769ad.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+  ![React Native](https://img.shields.io/badge/React%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   
 
 - **Database**:
 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 
@@ -69,8 +70,8 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
 - **Cloud Hosting**:
 
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-222222?style=for-the-badge&logo=vercel&logoColor=white)
-  ![cPanel](https://img.shields.io/badge/cPanel-ff6c2c.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
     
 
 - **Preprocessors**:
@@ -80,8 +81,8 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
 
 - **Softwares and Tools**:
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -91,13 +92,13 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
 
 - **Runtime Environment**:
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 - **Content Management System**:
   
-  ![WordPress](https://img.shields.io/badge/WordPress-21759b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-222222.svg?style=for-the-badge&logo=Payload-CMS&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-000000.svg?style=for-the-badge&logo=Payload-CMS&logoColor=white)
    
 
 </p>

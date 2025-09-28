@@ -49,6 +49,7 @@ Whether it's crafting the visual elements with HTML and CSS, enhancing user inte
   ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
   ![React Native](https://img.shields.io/badge/React%20Native-20232A.svg?style=for-the-badge&logo=react&logoColor=#61dafb)
   ![NEXTJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Expo](https://img.shields.io/badge/expo-1C2024?style=for-the-badge&logo=expo&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
